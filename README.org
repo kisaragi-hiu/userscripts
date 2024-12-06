@@ -1,0 +1,6 @@
+#+title: Personal userscripts
+
+…because maintaining a copy in a Git repository is easier than on GreasyFork. This repository also helps me set up TypeScript.
+
+- 樂詞網重新搜尋.js :: https://greasyfork.org/ja/scripts/510105-樂詞網搜尋頁面使用效率改善
+- bookwalker-booklist-fmt :: Not published on GreasyFork yet
